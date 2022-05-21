@@ -1,0 +1,70 @@
+{
+    "cbc-2c-2020": [
+        {
+            "title": "ICSE",
+            "start_date": "2020-08-01",
+            "end_date": "2020-12-15",
+            "state": "approved"
+        },
+        {
+            "title": "IPC",
+            "start_date": "2020-08-01",
+            "end_date": "2020-12-15",
+            "state": "approved"
+        },
+        {
+            "title": "Análisis Matemático A",
+            "start_date": "2020-08-01",
+            "end_date": "2020-12-15",
+            "state": "approved"
+        }
+    ],
+    "cbc-1c-2021": [
+        {
+            "title": "Física",
+            "start_date": "2021-03-01",
+            "end_date": "2021-07-31",
+            "state": "approved"
+        },
+        {
+            "title": "Química",
+            "start_date": "2021-03-01",
+            "end_date": "2021-07-31",
+            "state": "approved"
+        },
+        {
+            "title": "Álgebra A",
+            "start_date": "2021-03-01",
+            "end_date": "2021-07-31",
+            "state": "approved"
+        }
+    ],
+    "fiuba-2c-2021":[
+        {
+            "title": "Algoritmos y Programación I",
+            "start_date": "2021-09-06",
+            "end_date": "2021-12-20",
+            "state": "approved"
+        },
+        {
+            "title": "Análisis Matemático II",
+            "start_date": "2021-09-06",
+            "end_date": "2021-12-20",
+            "state": "final-exam"
+        },
+        {
+            "title": "Física I",
+            "start_date": "2021-09-06",
+            "end_date": "2021-12-20",
+            "state": "final-exam"
+        }
+    ],
+    "fiuba-1c-2022":[
+        {
+            "title": "Álgebra II",
+            "start_date": "2022-03-21",
+            "end_date": "2022-08-22",
+            "state": "active"
+        }
+    ]
+}
